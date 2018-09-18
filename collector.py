@@ -1,3 +1,5 @@
+# Chuck C. Chao | oahccc@gmail.com
+# License https://github.com/oahccc/goodinfo.tw-info-collector
 
 # coding: utf-8
 
